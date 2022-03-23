@@ -8,7 +8,7 @@ function App() {
        <p>
          <h1>WELCOME </h1>
          <h2>!HELLO WORLD!</h2>
-    <h3>hi 3565345</h3>
+    <h3>hi </h3>
        </p>
       </header>
     </div>
