@@ -28,6 +28,6 @@ jobs:
 
           firebaseServiceAccount: '${{ secrets.GIT_PRACTICE_HELLO }}'
 
-          projectId: gitpractice1-bfd63
+          projectName: gitpractice1
 
           channelId: live
